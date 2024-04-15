@@ -1,0 +1,12 @@
+.gm-style .gm-style-iw-tc::after {
+    display: none !important;
+  }
+
+  .gm-style .gm-ui-hover-effect {
+    display: none !important;
+  }
+  
+  .gm-style .gm-style-iw-c {
+    border-radius: 15px;
+    box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.3);
+  }
